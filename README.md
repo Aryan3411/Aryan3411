@@ -1,11 +1,16 @@
-- 👋 Hi, I’m Aryan Rajendra Shetye
-- 👀 I’m interested in  Playing Football, Cricket, Swimming, Skating and playing vedio games.
-- 🌱 I have completed Full stack web development with AWS course from IT Vedant year 2024.
-- 📖 I have completed my graduction in Bsc Computer Science from Mumbai University at year 2023 with 9.37 CGPA.
-- 📫 How to reach me @email - aryanshetye9168513411@gmail.com - @insta - aryan_shetye
-- 💻 I have done my first internship in the company teksands.ai for two months as a Software Developer intern.
-- 💻 Continuing Working as Full Time for teksands.ai as Software Developer from Sep 2023.
-<!---
-Aryan3411/Aryan3411 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I’m Aryan Rajendra Shetye
+
+Software Developer at Teksands.ai with experience in full-stack web development, backend APIs, database integration, deployment, and AI-based recruitment automation.
+
+Tech Stack:
+Python, Django, FastAPI, JavaScript, Angular, React, MySQL, MongoDB, Docker, AWS, Git, GitHub, OpenAI API, Pinecone
+
+Currently working on:
+- Recruitment / ATS platform development
+- Resume parsing and candidate search
+- AI agent workflows for hiring automation
+- Production deployment and server debugging
+
+Reach me:
+Email: aryanshetye9168513411@gmail.com
+LinkedIn: https://www.linkedin.com/in/aryan-shetye-95080720a/
