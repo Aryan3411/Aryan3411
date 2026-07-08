@@ -14,4 +14,4 @@ Currently working on:
 
 Reach me:
 Email: aryanshetye9168513411@gmail.com
-LinkedIn: linkedin.com/in/aryan-shetye-95080720a
+LinkedIn: https://www.linkedin.com/in/aryan-shetye-95080720a/
